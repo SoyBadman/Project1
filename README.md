@@ -44,7 +44,9 @@ Copy.
 ├── requirement.txt
 ├── notebooks
 │   └── EDA.ipynb
-└── .gitignore(python)
+├── .gitignore(python)
+└── .streamlit
+    └── config.toml
 
 Demo en Vivo
 Puedes acceder a la aplicación desplegada en: [URL-de-tu-app-en-Render]
